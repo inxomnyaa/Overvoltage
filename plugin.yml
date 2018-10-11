@@ -1,0 +1,10 @@
+---
+name: Overvoltage
+main: xenialdan\Overvoltage\Loader
+version: 1.0.0
+api: 4.0.0+dev
+load: STARTUP
+authors:
+- XenialDan
+description: Redstone on pmmp
+...
