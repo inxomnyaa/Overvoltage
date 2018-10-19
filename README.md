@@ -1,6 +1,4 @@
 # Overvoltage - Basic PMMP redstone plugin
-rotation is commonly used in many applicatIt enables you to split an otherwise overloaded log into several logs for easier reading
-
 
 
 ## Information
